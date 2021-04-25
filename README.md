@@ -1,9 +1,9 @@
-# Using Clustering Techniques to Segment the Visitors of a Swimming Pool in Amstedam
+# Using Clustering Techniques to Segment the Visitors of a Swimming Pool in Amsterdam
 
 Using datasets from the City of Amsterdam, market segments are defined using clustering methods in this project. The work was mainly done in Jupyter Notebooks because of its ease of use. It was found that ...
 To be written.
 
-![](media/examples/noorderparkbad.png)
+![](media/examples/noorderparkbad.jpeg)
 
 ---
 
