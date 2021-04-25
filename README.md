@@ -1,38 +1,28 @@
-# A Very Fancy Project Name
+# Using Clustering Techniques to Segment the Visitors of a Swimming Pool in Amstedam
 
-Explain in short what this repository is. Mind the target audience.
-No need to go into too much technical details if you expect some people would just use it as end-users 
-and don't care about the internals (so focus on what the code really *does*), not how.
-The *_How it works_* section below would contain more technical details for curious people.
+Using datasets from the City of Amsterdam, market segments are defined using clustering methods in this project. The work was mainly done in Jupyter Notebooks because of its ease of use. It was found that ...
+To be written.
 
-If applicable, you can also show an example of the final output.
-
-![](media/examples/emojis.png)
+![](media/examples/noorderparkbad.png)
 
 ---
 
 
 ## Project Folder Structure
 
-Explain a little bit what's where so people can find their way around. For exampole:
-
+For the moment, the City of Amsterdam template is use with the addition of a folder with the Jupyter notebooks.
 There are the following folders in the structure:
 
 1) [`resources`](./resources): Random nice resources, e.g. [`useful links`](./resources/README.md)
 1) [`src`](./src): Folder for all source files specific to this project
 1) [`tests`](./tests) Test example
 1) [`media`](./media): Folder containing media files (icons, video)
-1) ...
-
+1) [`media`](./notebooks): Folder containing notebooks and data
 ---
-
 
 ## Installation
 
-Explain how to set up everything. 
-Let people know if there are weird dependencies - if so feel free to add links to guides and tutorials.
-
-A person should be able to clone this repo, follow your instructions blindly, and still end up with something *fully working*!
+To be written.
 
 1) Clone this repository:
     ```bash
@@ -48,10 +38,7 @@ A person should be able to clone this repo, follow your instructions blindly, an
 
 ## Usage
 
-Explain example usage, possible arguments, etc. E.g.:
-
-To train... 
-
+To be written.
 
 ```
 $ python train.py --some-importang-argument
@@ -66,10 +53,3 @@ Explain roughly how the code works, what the main components are, how certain cr
 
 ---
 ## Acknowledgements
-
-
-Don't forget to acknowledge any work by others that you have used for your project. Add links and check whether the authors have explicitly stated citation preference for using the DOI or citing a paper or so. 
-For example:
-
-Our code uses [YOLOv5](https://github.com/ultralytics/yolov5) [![DOI](https://zenodo.org/badge/264818686.svg)](https://zenodo.org/badge/latestdoi/264818686)
-
